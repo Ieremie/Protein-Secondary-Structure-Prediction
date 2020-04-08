@@ -425,3 +425,4 @@ m.summary()
 #os.environ["PATH"] += os.pathsep + 'C:/Users/Ieremie/Anaconda3/pkgs/graphviz-2.38-hfd603c8_2/Library/bin'
 
 #plot_model(m)#, to_file='model.png')
+
