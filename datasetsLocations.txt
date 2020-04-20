@@ -1,0 +1,7 @@
+jpred - dataset 
+
+
+http://dunbrack.fccc.edu/Guoli/PISCES_VerifyPDBParams.php - if we want to do it ourselfs
+
+
+http://distilldeep.ucd.ie/porter/data/ - also from cullpdb - large dataset
